@@ -8,7 +8,7 @@
 
     <Button
         android:id="@+id/button_toast"
-        android:layout_width="wrap_content"
+        android:layout_width="298dp"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
         android:foregroundGravity="center_horizontal"
@@ -24,7 +24,7 @@
 
     <Button
         android:id="@+id/button_count"
-        android:layout_width="wrap_content"
+        android:layout_width="299dp"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
         android:foregroundGravity="center_horizontal"
